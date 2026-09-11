@@ -1,5 +1,3 @@
-# 2x2-Microstrip-Patch-Antenna-Array-2.4GHz
-Design and CST simulation of a 2×2 microstrip patch antenna array operating at 2.4 GHz, including S11, VSWR, far-field radiation pattern, gain, and surface electric-field analysis.
 # 2×2 Microstrip Patch Antenna Array for 2.4 GHz
 
 A 2×2 microstrip patch antenna array designed and simulated using CST Studio Suite for operation around 2.4 GHz.
